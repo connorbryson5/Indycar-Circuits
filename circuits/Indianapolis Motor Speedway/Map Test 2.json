@@ -4,7 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Finish Line"
+				"name": "Finish Line",
 				"color": "red"
 			},
 			"geometry": {

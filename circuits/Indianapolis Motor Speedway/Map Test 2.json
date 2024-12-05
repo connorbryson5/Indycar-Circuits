@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Finish Line",
-				"color": "red"
+				"image": "https://github.com/connorbryson5/Indycar-Circuits/blob/main/circuits/Indianapolis%20Motor%20Speedway/Timing%20Marker%20Images/T1.png"
 			},
 			"geometry": {
 				"coordinates": [
